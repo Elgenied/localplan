@@ -49,6 +49,7 @@ nav:
     - Changelog: changelog.md
     - Report Issues: https://github.com/elgenied/localplan/issues
     - Examples:
-          - examples/intro.ipynb
+          - examples/introd.ipyb: Introduction
+          - 
     - API Reference:
           - localplan module: localplan.md
