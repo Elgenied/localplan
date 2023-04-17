@@ -48,7 +48,5 @@ nav:
     - FAQ: faq.md
     - Changelog: changelog.md
     - Report Issues: https://github.com/elgenied/localplan/issues
-    -Examples:
-            -examples/introd.ipynb
     - API Reference:
           - localplan module: localplan.md
