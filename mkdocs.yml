@@ -39,7 +39,6 @@ markdown_extensions:
 #     analytics:
 #         provider: google
 #         property: UA-XXXXXXXXX-X
-
 nav:
     - Home: index.md
     - Installation: installation.md
@@ -49,7 +48,13 @@ nav:
     - Changelog: changelog.md
     - Report Issues: https://github.com/elgenied/localplan/issues
     - Examples:
-          - examples/introd.ipyb
-          - 
+          - examples/intro.ipynb
+          - examples/folium.ipynb
+          - examples/raster.ipynb
+          - examples/ipywidgets.ipynb
+          - examples/ipywidgets_box.ipynb
+          - examples/ipywidgets_events.ipynb
     - API Reference:
           - localplan module: localplan.md
+          
+
